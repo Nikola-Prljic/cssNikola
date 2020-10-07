@@ -1,0 +1,32 @@
+img {
+  width: 50px;
+}
+#face {
+  
+  width: 400px;
+}
+#hair1 {
+  position: relative;
+  left: -850px;
+  top: -150px;
+  width: 300px;
+}
+#mouth2 {
+  position: relative;
+  top: -100px;
+  left: -450px;
+  width: 70px;
+}
+#eyes1 {
+  position: relative;
+  top: -200px;
+  left: -250px;
+  width: 100px;
+  
+}
+#nose1 {
+  position: relative;
+  top: -110px;
+  left: -500px;
+}
+
