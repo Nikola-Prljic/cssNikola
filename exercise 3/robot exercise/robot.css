@@ -2,13 +2,12 @@ img {
   width: 50px;
 }
 #face {
-  
   width: 400px;
 }
 #hair1 {
   position: relative;
-  left: -850px;
-  top: -150px;
+  left: 0px;
+  top: -500px;
   width: 300px;
 }
 #mouth2 {
@@ -26,7 +25,13 @@ img {
 }
 #nose1 {
   position: relative;
-  top: -110px;
-  left: -500px;
+  top: -120px;
+  left: -510px;
+}
+#ears1{
+  position: relative;
+  top: -120px;
+  left: -800px;
+  width: 400px;
 }
 
